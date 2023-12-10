@@ -1,0 +1,15 @@
+name: Wolapp
+description: My first real add-on!
+version: 0.0.2
+slug: wolapp
+init: false
+url: https://github.com/Tchoupinax/wolapp-ha
+webui: http://[HOST]:[PORT:5644]
+arch:
+  - aarch64
+  - amd64
+  - armv7
+ports:
+  5644/tcp: 5644
+ports_description:
+  5644/tcp: Web interface
