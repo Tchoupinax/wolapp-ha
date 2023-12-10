@@ -1,5 +1,5 @@
 name: Wolapp
-description: My first real add-on!
+description: Web interface to make WOL at home!
 version: 0.0.2
 slug: wolapp
 init: false
