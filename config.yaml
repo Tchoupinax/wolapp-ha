@@ -1,6 +1,6 @@
 name: Wolapp
 description: Web interface to make WOL at home!
-version: 0.0.2
+version: next
 slug: wolapp
 init: false
 url: https://github.com/Tchoupinax/wolapp-ha
@@ -13,3 +13,4 @@ ports:
   5644/tcp: 5644
 ports_description:
   5644/tcp: Web interface
+image: tchoupinax/wolapp
